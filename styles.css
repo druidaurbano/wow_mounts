@@ -1,0 +1,14 @@
+html {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+header {
+    width: min(10vw, 100px);
+    height: 100vh;
+}
+
+div {
+    padding: 10px;
+}
